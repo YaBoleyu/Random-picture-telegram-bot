@@ -1,9 +1,6 @@
 from telegram.ext import Updater, InlineQueryHandler, CommandHandler
-import requests
-import re
 import random
 import os
-import tg_analytic
 
 path = "PATH"
 
